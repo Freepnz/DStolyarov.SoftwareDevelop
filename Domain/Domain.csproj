@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>DStolyarov.SoftwareDevelope.Domain</AssemblyName>
+    <RootNamespace>DStolyarov.SoftwareDevelope.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
